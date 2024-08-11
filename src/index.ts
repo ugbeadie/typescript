@@ -17,5 +17,3 @@ let employee: {
   id: number;
   name: string;
 } = { id: 1, name: "ugbe" };
-let fullName = employee.name + "adie";
-console.log(fullName);
